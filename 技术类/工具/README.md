@@ -13,5 +13,5 @@
     * [SecureCRT遇到一个致命的错误且必须关闭](技术类/工具/Win10SecureCRT遇到一个致命的错误且必须关闭.md)
     * [Windows自带的截图方式](技术类/工具/windows自带的截图方式.md)
     * [Word文件保存为PDF并生成目录书签](技术类/工具/Word文件保存为PDF并生成目录书签.md)
-    * [Word中插入高亮代码_Notepad++](技术类/工具/Word中插入高亮代码-Notepad++.md)
+    * [Word中插入高亮代码_Notepad++](技术类/工具/Word中插入高亮代码Notepad++.md)
     * [word文件随机生成文字](技术类/工具/word文件随机生成文字.md)
