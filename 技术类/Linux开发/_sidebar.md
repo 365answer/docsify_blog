@@ -1,0 +1,17 @@
+<!-- docs/_sidebar.md -->
+
+* [技术类/Linux开发/](技术类/Linux开发/)
+    * [编译自己的Ubuntu内核](技术类/Linux开发/编译自己的Ubuntu内核.md)
+    * [内核模块](技术类/Linux开发/内核模块.md)
+    * [内核日志打印](技术类/Linux开发/内核日志打印.md)
+    * [Linux设备树](技术类/Linux开发/设备树.md)
+    * [通用内核模块Makefile](技术类/Linux开发/通用的内核模块Makefile.md)
+    * [异步通知](技术类/Linux开发/异步通知.md)
+    * [中断子系统](技术类/Linux开发/中断子系统.md)
+    * [字符设备驱动](技术类/Linux开发/字符设备驱动.md)
+    * [STM32MP1开发板使用步骤](技术类/Linux开发/ATK_STM32MP1开发板使用步骤.md)
+    * [GCC编译器](技术类/Linux开发/gcc.md)
+    * [IMX6ULL_PRO开发板使用步骤](技术类/Linux开发/IMX6ULL_PRO开发板使用步骤.md)
+    * [NFS挂载目录](技术类/Linux开发/NFS挂载目录.md)
+    * [Ubuntu常用操作](技术类/Linux开发/Ubuntu常用操作.md)
+    * [Windows与Ubuntu互传文件](技术类/Linux开发/Windows与Ubuntu互传文件.md)
