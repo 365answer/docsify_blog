@@ -1,8 +1,3 @@
----
-title: 编译自己的Ubuntu内核
-tags: [系统]
----
-
 # 编译自己的Ubuntu内核
 
 

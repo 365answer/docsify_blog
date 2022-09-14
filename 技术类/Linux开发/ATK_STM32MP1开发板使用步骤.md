@@ -1,10 +1,3 @@
----
-title: STM32MP1开发板使用步骤
-tags: [开发板]
----
-
-
-
 ## 1. 资料下载
 
 [STM32MP157-Mini开发板 — 正点原子资料下载中心 1.0.0 文档 (openedv.com)](http://www.openedv.com/docs/boards/arm-linux/zdyz-minimp157.html)

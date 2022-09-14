@@ -1,8 +1,3 @@
----
-title: Ubuntu常用操作
-tags: [系统]
----
-
 ## 1. 系统安装
 
 [制作UbuntuU盘启动 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/197908477)

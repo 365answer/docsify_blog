@@ -1,8 +1,3 @@
----
-title: Windows与Ubuntu互传文件
-tags: [系统]
----
-
 # Windows 与 Ubuntu 互传文件
 
 最近买了一块正点原子的STM32MP157开发板，记录一下学习过程。今天总结一下 Window 与 Ubuntu 互传文件的方法。‍
